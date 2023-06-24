@@ -23,6 +23,6 @@ Steps to follow to execute the VBA challenge code to analyze the stock data:
 
   --------------------------------------------------------------------------------------------------------------------------------------------------
 
-** Output screenshots are available in Output_Screeshots folder.
+** Output screenshots are available for 2018, 2019 and 2020.
 
 ===========================================================================================================================================================
